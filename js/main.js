@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{document.getElementById("year").textContent=new Date().getFullYear();document.querySelectorAll("#mainNav .nav-link").forEach(link=>link.addEventListener("click",()=>{const nav=document.getElementById("mainNav");if(nav.classList.contains("show"))bootstrap.Collapse.getOrCreateInstance(nav).hide()}));});

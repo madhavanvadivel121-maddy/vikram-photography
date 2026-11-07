@@ -1,2 +1,1 @@
-# vikram-photography
-our photography
+# Jayaram Cards Photography — Bootstrap 5.3\n\nOpen `index.html` in a browser. Bootstrap 5.3.3 and Google Fonts load through CDNs.\n\nUpdate the sample WhatsApp number, email address, and remote image URLs in `index.html` before publishing.\n
